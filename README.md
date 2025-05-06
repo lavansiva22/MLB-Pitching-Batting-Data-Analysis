@@ -1,4 +1,4 @@
-# MLB-Pitching-Batting-Data-Analysis
+# ⚾ MLB-Pitching-Batting-Data-Analysis
 This project explores the Tampa Bay Rays of the Major League Baseball (MLB) pitching and batting statistics using a combination of Microsoft Excel and SQL. The goal is to extract, clean, and analyze player performance data to uncover patterns, insights, and interesting trends within recent MLB seasons.
 
 ## 📊 Project Overview
